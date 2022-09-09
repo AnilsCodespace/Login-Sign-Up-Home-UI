@@ -63,6 +63,7 @@ flutter:
   assets:
     - assets/images/logos/splash1.jpg
     - assets/images/logos/CHIT CHAT-logos_black.png
+    - assets/images/logos/logiAni.jpg
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
