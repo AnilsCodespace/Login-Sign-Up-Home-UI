@@ -1,6 +1,12 @@
 # splashloginsignup1
 
 A new Flutter project.
+![image](https://user-images.githubusercontent.com/87460435/200156795-efcde199-18db-4397-98d1-c1e343538737.png)
+![image](https://user-images.githubusercontent.com/87460435/200156801-2113a2d1-db1b-45d3-a71f-6de42b2715a9.png)
+![image](https://user-images.githubusercontent.com/87460435/200156807-7416cec5-ca51-4a3e-9cee-54171694b71c.png)
+
+
+
 
 ## Getting Started
 
